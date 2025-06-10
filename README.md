@@ -37,6 +37,45 @@ Conde-Rand é um aplicativo desenvolvido em FlutterFlow que une duas funcionalid
 
 ---
 
-## 🧩 Estrutura
+
+---
+
+## 🙋 Sobre o Desenvolvimento
+
+Este projeto foi feito **em equipe**, como parte de um estudo colaborativo.  
+- A funcionalidade de **sorteio** foi implementada por **Ramon Brandão**.  
+- A funcionalidade de **contador** foi adicionada por uma colega colaboradora.
+
+**Objetivo:** Aprimorar habilidades práticas em **FlutterFlow**, lógica de programação e design de interface no-code/low-code.
+
+---
+
+## 🚀 Como usar
+
+> O app está publicado e disponível online:
+
+1. Clique no link: [FlutterFlow App - Conde-Rand](https://versao-conjunta-6liehy.flutterflow.app/)
+2. Use os botões de contador ou realize sorteios conforme desejar.
+3. O app é responsivo e funciona bem tanto no celular quanto em desktop.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.  
+Sinta-se à vontade para estudar, adaptar ou reutilizar com os devidos créditos.
+
+---
+
+## 📫 Contato
+
+📧 ramonbrandao.dev24@gmail.com  
+🔗 [GitHub - Ramon-24](https://github.com/Ramon-24)  
+🌐 [Portfólio](https://seu-portfolio-link.com)
+
+---
+
+🛠️ *Feito com dedicação, aprendizado e colaboração.*  
+
 
 
